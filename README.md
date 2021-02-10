@@ -34,7 +34,7 @@ root                    (project root folder)
 
 ## Authors
 --- 
-          Ezra Vizcarra viz19001@byui.edu
-          Aria Menke aria_menke@byui.edu
+          Ezra Vizcarra <viz19001@byui.edu>
+          Aria Menke <aria_menke@byui.edu>
           Michael Romero <email>
           Daniel Gomez <email>
