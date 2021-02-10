@@ -34,4 +34,7 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your names and emails here
+* # TODO: Ezra Vizcarra <viz19001@byui.edu>
+          Aria Menke <email>
+          Michael Romero <email>
+          Daniel Gomez <email>
