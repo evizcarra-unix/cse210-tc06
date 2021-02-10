@@ -33,8 +33,8 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
----
-* # TODO: Ezra Vizcarra <viz19001@byui.edu>
+--- 
+          Ezra Vizcarra <viz19001@byui.edu>
           Aria Menke <email>
           Michael Romero <email>
           Daniel Gomez <email>
